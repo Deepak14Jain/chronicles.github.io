@@ -24,7 +24,7 @@ As the collection grows, you’ll find posts on everything from system design to
 
 ## 🙌 Contributions & Feedback
 
-This is a personal space, but if you’d like to contribute ideas or improvements, feel free to [open an issue](https://github.com/Deepak14Jain/dev-chronicles/issues) or drop me a note.
+This is a personal space, but if you’d like to contribute ideas or improvements, feel free to [open an issue](https://github.com/Deepak14Jain/deepak14jain.github.io/issues) or drop me a note.
 
 ---
 
