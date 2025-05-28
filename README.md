@@ -24,6 +24,6 @@ This is a personal space, but if you’d like to contribute ideas or improvement
 
 ## 📜 License
 
-MIT License – feel free to reuse with credit. See [`LICENSE`](LICENSE) for details.
+MIT License – feel free to reuse with credit. See `LICENSE` for details.
 
 > “If you can't explain it simply, you don't understand it well enough.” – Albert Einstein
