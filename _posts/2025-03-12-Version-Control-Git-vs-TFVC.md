@@ -1,6 +1,13 @@
-![Description of image](/assets/images/2025-03-12-Version-Control-Git-vs-TFVC.png)
+---
+title: "Navigating Complex Software Projects with Version Control: Git vs. TFVC"
+date: 2025-03-12
+tags: [Version Control, Git, TFVC, DevOps, Branching, Azure DevOps, CI/CD, Software Engineering]
+description: "A practical comparison of Git and Team Foundation Version Control (TFVC) in the context of DevOps, highlighting their architectures, branching strategies, and real-world usage in modern software projects."
+---
 
-# Navigating Complex Software Projects with Version Control in DevOps
+![DevOps](/assets/images/2025-03-12-Version-Control-Git-vs-TFVC.png)
+
+# Navigating Complex Software Projects with Version Control: Git vs. TFVC
 
 Let’s dive into an essential aspect of modern software development — version control — and how it plays a pivotal role in managing and streamlining the delivery of complex software projects within the DevOps ecosystem.
 
