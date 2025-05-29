@@ -252,3 +252,7 @@ Watch this video for a step-by-step demonstration of OPA test execution:
 ### Final Summary
 
 OPA tests are essential for ensuring your SAP Fiori/UI5 app works as intended from the user's perspective. With proper setup and automation, they provide robust regression coverage and confidence in your application's quality.
+
+---
+💡 Also available on:  
+- [Medium](https://medium.com/@deepak.jain09886522785/end-to-end-ui-testing-in-sapui5-fiori-with-opa5-e9810d846dfc)
